@@ -1,4 +1,3 @@
 # rails_log_stdout
 
-Configure a Rails 2 or 3 app to log to STDOUT by default
-
+Please use https://github.com/heroku/rails_stdout_logging instead
